@@ -1,0 +1,10 @@
+/Users/codenation/Desktop/TopTrumpDeve/obj/Debug/netcoreapp3.1/TopTrumpDeve.csprojAssemblyReference.cache
+/Users/codenation/Desktop/TopTrumpDeve/obj/Debug/netcoreapp3.1/TopTrumpDeve.AssemblyInfoInputs.cache
+/Users/codenation/Desktop/TopTrumpDeve/obj/Debug/netcoreapp3.1/TopTrumpDeve.AssemblyInfo.cs
+/Users/codenation/Desktop/TopTrumpDeve/bin/Debug/netcoreapp3.1/TopTrumpDeve.deps.json
+/Users/codenation/Desktop/TopTrumpDeve/bin/Debug/netcoreapp3.1/TopTrumpDeve.runtimeconfig.json
+/Users/codenation/Desktop/TopTrumpDeve/bin/Debug/netcoreapp3.1/TopTrumpDeve.runtimeconfig.dev.json
+/Users/codenation/Desktop/TopTrumpDeve/bin/Debug/netcoreapp3.1/TopTrumpDeve.dll
+/Users/codenation/Desktop/TopTrumpDeve/bin/Debug/netcoreapp3.1/TopTrumpDeve.pdb
+/Users/codenation/Desktop/TopTrumpDeve/obj/Debug/netcoreapp3.1/TopTrumpDeve.dll
+/Users/codenation/Desktop/TopTrumpDeve/obj/Debug/netcoreapp3.1/TopTrumpDeve.pdb
